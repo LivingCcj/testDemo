@@ -1,0 +1,21 @@
+C
+C
+C
+C
+B
+B
+B
+B
+C
+C
+C
+BkkkLluuuuuAithis is a test log
+=========test1====================
+this a s
+sudo apt get remove vim-common
+
+sudo apt get intall vi-gtk
+
+resolve the question
+
+
