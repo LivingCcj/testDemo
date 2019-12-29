@@ -16,5 +16,8 @@ sudo apt get remove vim-common
 sudo apt get intall vi-gtk
 
 resolve the question
+==========testShare============
+this is a test Share
 
+sudo apt age sogouPinyin
 
